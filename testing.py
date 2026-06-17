@@ -1,6 +1,8 @@
-num = 8
+"""Check whether a number is even or odd."""
 
-if num % 2 == 0:
+NUM = 8
+
+if NUM % 2 == 0:
     print("Even")
 else:
     print("Odd")
